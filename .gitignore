@@ -1,1 +1,5 @@
 .sass-cache/
+terraform-code/.terraform/
+terraform-code/*.tfstate
+terraform-code/*.tfstate.backup
+*.tfvars
